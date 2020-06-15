@@ -1,0 +1,17 @@
+/* @theme uncover-custom */
+
+/* Base CSS: https://github.com/marp-team/marp-core/blob/master/themes/uncover.scss */
+@import 'uncover';
+
+/* common */
+section {
+  font-family: 'Segoe UI', 'Meiryo UI';
+  text-align: left;
+  justify-content: start;
+}
+
+/* cover slide */
+section.cover {
+  text-align: center;
+  justify-content: center;
+}

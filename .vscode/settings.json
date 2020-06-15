@@ -1,0 +1,7 @@
+// Please put `.vscode/settings.json` on your workspace
+{
+    "markdown.marp.themes": [
+      "./themes/a4.css", 
+      "./themes/uncover-custom.css"
+    ]
+  }
